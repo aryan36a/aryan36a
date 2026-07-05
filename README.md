@@ -1,11 +1,3 @@
-<!--
-  README FOR: Aryan Sangave
-  NOTE TO ARYAN: Replace every instance of "aryan36a" below with your
-  actual GitHub username so the stats/streak/activity/snake widgets resolve
-  correctly. Replace the placeholder LinkedIn/Twitter/Mail links in the
-  Contact section with your real handles.
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:6A11CB&height=280&section=header&text=Aryan%20Sangave&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Systems%20Programmer%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20C%2FC%2B%2B%20Craftsman&descAlignY=52&descSize=17&descColor=B8C2E0" width="100%"/>
@@ -215,14 +207,14 @@ An ongoing collection of data structures and algorithms — implemented, tested,
 
 <div align="center">
 
-<a href="aryansangave34@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00CFFF"/>
+<a href="mailto:aryansangave34@gmail.com">
+<img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00CFFF"/>
 </a>
-<a href="www.linkedin.com/in/aryan-sangave">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6A11CB"/>
+<a href="https://www.linkedin.com/in/aryan-sangave">
+<img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6A11CB"/>
 </a>
 <a href="https://github.com/aryan36a">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </div>
