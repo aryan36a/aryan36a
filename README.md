@@ -1,132 +1,161 @@
 <div align="center">
 
-# Hi, I'm Aryan Sangave
+# ▄▄▄· ▄▄▄   ▄· ▄▌ ▄▄▄·  ▐ ▄
+# ▐█ ▀█ ▀▄ █·▐█▪██▌▐█ ▀█ •█▌▐█
+# ▄█▀▀█ ▐▀▀▄ ▐█▌▐█▪▄█▀▀█ ▐█▐▐▌
+# ▐█ ▪▐▌▐█•█▌ ▐█▀·.▐█ ▪▐▌██▐█▌
+#  ▀  ▀ .▀  ▀  ▀ •  ▀  ▀ ▀▀ █▪
 
-### Second-Year Computer Science Student | C/C++ Developer | Game Development Enthusiast
+```
 
-Building software that helps me understand how things work under the hood.
+```console
+$ whoami
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+a+Chess+Engine+in+C;Learning+Systems+Programming;Exploring+Linux+and+Computer+Graphics;Always+Building+Something+New" />
+Aryan Sangave
+
+Computer Science Student
+C • C++ • Linux
+Building things from scratch.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Initializing+Developer...;Compiling+Chess+Engine...;Reading+Operating+Systems...;Ready." />
 
 </div>
 
 ---
 
-## About Me
+# ~/about
 
-- Computer Science student from India
-- Passionate about **C**, **C++**, and **low-level programming**
-- Interested in **Game Development**, **Computer Graphics**, and **Systems Programming**
-- Currently building a **Chess Engine in C using Raylib**
-- Learning Linux, Data Structures, Operating Systems, and Computer Networks
+```yaml
+name: Aryan Sangave
 
----
+location: India
 
-## Current Focus
+languages:
+  - C
+  - C++
+  - Python
 
-```text
-♟ Chess Engine in C
-📂 Improving my CLI File Organizer
-📚 Learning Operating Systems
-🐧 Getting comfortable with Linux
+interests:
+  - Chess Engines
+  - Systems Programming
+  - Computer Graphics
+  - Linux
+  - Algorithms
+
+currently:
+  - Building a Chess Engine
+  - Learning Operating Systems
+  - Exploring Raylib
 ```
 
 ---
 
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode" />
-</p>
-
----
-
-## Featured Projects
-
-### ♟ Chess Engine (C + Raylib)
-
-A chess engine written completely in C with a graphical interface using Raylib.
-
-Current Features
-
-- Piece movement
-- Turn-based gameplay
-- Move validation
-- Board rendering
-- Piece selection
-
-Planned Features
-
-- Check & Checkmate
-- Castling
-- En Passant
-- Pawn Promotion
-- Minimax AI
-- Alpha-Beta Pruning
-
----
-
-### 📂 CLI Based File Organizer
-
-A C++ command-line application that automatically organizes files into categorized folders.
-
-Features
-
-- Directory traversal
-- Automatic folder creation
-- File categorization
-- Duplicate handling
-- Modern C++ Filesystem API
-
----
-
-## Currently Learning
+# ls projects/
 
 ```text
-C Programming
-Modern C++
-Linux
-Operating Systems
-Computer Networks
-Data Structures & Algorithms
+📁 chess-engine
+    ├── board rendering
+    ├── move validation
+    ├── turn system
+    ├── castling (WIP)
+    └── minimax (planned)
+
+📁 cli-file-organizer
+    ├── filesystem traversal
+    ├── extension sorting
+    └── duplicate handling
+
+📁 medisync
+
+📁 dsa
 ```
 
 ---
 
-## GitHub Stats
+# cat skills.txt
 
-<p align="center">
+```text
+██████████░░░░░░░░ C
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan36a&show_icons=true&theme=github_dark&hide_border=true"/>
+████████░░░░░░░░░░ C++
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan36a&layout=compact&theme=github_dark&hide_border=true"/>
+███████░░░░░░░░░░░ Linux
 
-</p>
+██████░░░░░░░░░░░░ Git
 
----
+█████░░░░░░░░░░░░░ Python
 
-## Goals for 2026
-
-- Complete a full Chess Engine
-- Learn advanced C++
-- Learn Linux Internals
-- Contribute to Open Source
-- Secure a C/C++ Internship
+████░░░░░░░░░░░░░░ Raylib
+```
 
 ---
 
-## Quote
+# top
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
+```text
+PID     PROJECT
 
-— Harold Abelson
+1001    Chess Engine
+1002    CLI File Organizer
+1003    Learning Operating Systems
+1004    Linux
+1005    Computer Networks
+```
+
+---
+
+# git log --oneline
+
+```text
+✔ Building over copying
+
+✔ Learning over memorizing
+
+✔ Clean code over clever code
+
+✔ Consistent commits over commit spam
+```
+
+---
+
+# stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryan36a&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan36a&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# currently listening to
+
+```
+gcc -Wall
+```
+
+---
+
+# motto
+
+> Every bug teaches something the documentation didn't.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+```
+SYSTEM STATUS
 
-Always learning, always building.
+CPU       ███████████ 100%
+RAM       ███████░░░░ 72%
+Coffee    ███████████
+Motivation █████████░
+
+STATUS: BUILDING...
+```
 
 </div>
