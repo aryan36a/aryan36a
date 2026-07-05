@@ -1,24 +1,132 @@
-# 💫 About Me:
-CLI based File Organizer<br><br>
+<div align="center">
 
+# Hi, I'm Aryan Sangave
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan36a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryan36a&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan36a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Second-Year Computer Science Student | C/C++ Developer | Game Development Enthusiast
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryan36a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building software that helps me understand how things work under the hood.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+a+Chess+Engine+in+C;Learning+Systems+Programming;Exploring+Linux+and+Computer+Graphics;Always+Building+Something+New" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aryan36a&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryan36a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- Computer Science student from India
+- Passionate about **C**, **C++**, and **low-level programming**
+- Interested in **Game Development**, **Computer Graphics**, and **Systems Programming**
+- Currently building a **Chess Engine in C using Raylib**
+- Learning Linux, Data Structures, Operating Systems, and Computer Networks
+
+---
+
+## Current Focus
+
+```text
+♟ Chess Engine in C
+📂 Improving my CLI File Organizer
+📚 Learning Operating Systems
+🐧 Getting comfortable with Linux
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### ♟ Chess Engine (C + Raylib)
+
+A chess engine written completely in C with a graphical interface using Raylib.
+
+Current Features
+
+- Piece movement
+- Turn-based gameplay
+- Move validation
+- Board rendering
+- Piece selection
+
+Planned Features
+
+- Check & Checkmate
+- Castling
+- En Passant
+- Pawn Promotion
+- Minimax AI
+- Alpha-Beta Pruning
+
+---
+
+### 📂 CLI Based File Organizer
+
+A C++ command-line application that automatically organizes files into categorized folders.
+
+Features
+
+- Directory traversal
+- Automatic folder creation
+- File categorization
+- Duplicate handling
+- Modern C++ Filesystem API
+
+---
+
+## Currently Learning
+
+```text
+C Programming
+Modern C++
+Linux
+Operating Systems
+Computer Networks
+Data Structures & Algorithms
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan36a&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan36a&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Goals for 2026
+
+- Complete a full Chess Engine
+- Learn advanced C++
+- Learn Linux Internals
+- Contribute to Open Source
+- Secure a C/C++ Internship
+
+---
+
+## Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+
+— Harold Abelson
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+Always learning, always building.
+
+</div>
