@@ -1,6 +1,6 @@
 <!--
   README FOR: Aryan Sangave
-  NOTE TO ARYAN: Replace every instance of "AryanSangave" below with your
+  NOTE TO ARYAN: Replace every instance of "aryan36a" below with your
   actual GitHub username so the stats/streak/activity/snake widgets resolve
   correctly. Replace the placeholder LinkedIn/Twitter/Mail links in the
   Contact section with your real handles.
@@ -175,16 +175,16 @@ An ongoing collection of data structures and algorithms — implemented, tested,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryanSangave&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=6A11CB&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSangave&theme=tokyonight&hide_border=true&background=0D1117&ring=6A11CB&fire=00CFFF&currStreakLabel=00CFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan36a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=6A11CB&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan36a&theme=tokyonight&hide_border=true&background=0D1117&ring=6A11CB&fire=00CFFF&currStreakLabel=00CFFF" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSangave&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan36a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=c9d1d9" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSangave&theme=react-dark&hide_border=true&bg_color=0D1117&color=00CFFF&line=6A11CB&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan36a&theme=react-dark&hide_border=true&bg_color=0D1117&color=00CFFF&line=6A11CB&point=ffffff" width="97%"/>
 
 </div>
 
@@ -193,7 +193,7 @@ An ongoing collection of data structures and algorithms — implemented, tested,
 ## ⟡ Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AryanSangave/AryanSangave/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+<img src="https://raw.githubusercontent.com/aryan36a/aryan36a/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 <br/>
 <sub>Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add it to your profile repo for this to render.</sub>
 </div>
@@ -211,7 +211,7 @@ An ongoing collection of data structures and algorithms — implemented, tested,
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AryanSangave&color=6A11CB&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=aryan36a&color=6A11CB&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -228,7 +228,7 @@ An ongoing collection of data structures and algorithms — implemented, tested,
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6A11CB"/>
 </a>
-<a href="https://github.com/AryanSangave">
+<a href="https://github.com/aryan36a">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
